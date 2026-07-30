@@ -1,0 +1,21 @@
+demfname: ./settings/mnt_5m_final.tif
+visfname: ./settings/outputviewshed.tif
+imgfname: ./output/decoup/2025-07-10-09-00-04-001-decoup.jpg
+obscoords:
+- 967903.44
+- 6445500.06
+- 2661.5
+tgtcoords:
+- 966690.0
+- 6444190.29
+- 2635.0
+fwidth: 0.036
+fheight: 0.02592
+focallength: 0.023
+roll: -2.5
+masterimage: ./input_images/2025-07-10-09-00-04-001.jpg
+decoupage:
+  inputhfov: 220
+  yaw: 20
+  outputhfov: 80
+  outputvfov: 40
