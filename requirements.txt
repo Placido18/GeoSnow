@@ -1,5 +1,5 @@
 matplotlib
-numpy
+numpy<2
 opencv-python
 pyyaml
 torch
